@@ -1,0 +1,8 @@
+Alumno: Christian Aguilar Alvarado
+email: caguilar30234@ufide.ac.cr
+
+Curso: Programacion para dispositivos moviles
+Horario: Viernes Noche 
+
+Profesor: 
+Alonso Buzano Marenco
